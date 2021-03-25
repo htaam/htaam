@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @htaam
+- 👀 I’m interested in Stuff
+- 🌱 I’m currently learning C and other stuff at 42Lisbon, also studying Aerospace Engeniring at Tecnico Lisboa.
