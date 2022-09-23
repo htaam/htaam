@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @htaam
-- 👀 I’m interested in Stuff
-- 🌱 I’m currently learning C and other stuff at 42Lisbon, also studying Aerospace Engeniring at Tecnico Lisboa.
+- 👋 Hi, I’m Tiago Matias
+- 👀 I’m interested in Progaming, Data, Aerospace
+- 🌱 I’m currently learning C, C++ and other stuff at 42Lisbon, Former student of Aerospace Engeniring at Tecnico Lisboa (finished the 1st cycle but did not complet the Masters)
