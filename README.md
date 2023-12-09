@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tiago Matias
 - 👀 I’m interested in Progaming, Data, Aerospace
-- 🌱 I’m currently learning C, C++ and other stuff at 42Lisbon, Former student of Aerospace Engeniring at Tecnico Lisboa (finished the 1st cycle but did not complet the Masters)
+- 🌱 I’m currently learning C, C++ and other stuff at 42Lisbon, Former student of Aerospace Engeniring at Tecnico Lisboa
